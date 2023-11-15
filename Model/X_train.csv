@@ -93,7 +93,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 25539.0,Jeffrey Johnstone,M,Raw,31.5,76.3,155.0,215.0
 7654.0,Shayle Dudash Williams,F,Raw,40.0,65.2,115.0,137.5
 22522.0,Charmane Smith,F,Raw,30.5,101.1,135.0,182.5
-11462.0,Haylee Lindquist,F,Raw,26.0,51.7,102..5,100.0
+11462.0,Haylee Lindquist,F,Raw,26.0,51.7,102.5,100.0
 19770.0,Lachlan Rickards,M,Raw,21.5,86.9,210.0,230.0
 25248.0,TJ Gerking,M,Raw,22.0,87.4,222.5,260.0
 12831.0,Leslie Nelson,M,Single-ply,25.0,73.14,114.99,172.48
@@ -1613,7 +1613,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 10461.0,Ricky Lopez,M,Raw,26.0,116.5,212.5,272.5
 3459.0,Jessica Blandino,F,Raw,17.5,77.8,110.0,132.5
 26609.0,Erin Collins,F,Wraps,19.0,66.0,150.0,152.5
-21517.0,David Wells,M,Wraps,40.0,118.39,227..5,237.5
+21517.0,David Wells,M,Wraps,40.0,118.39,227.5,237.5
 4965.0,Cole Martin,M,Raw,13.0,64.0,107.5,137.5
 17384.0,BJ Whitehead,M,Raw,37.0,118.84,327.5,330.0
 16700.0,Dyana DuCharme,F,Raw,29.0,64.2,157.5,197.5
@@ -1662,7 +1662,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 1176.0,Dariusz Wszola,M,Raw,35.5,58.3,215.0,205.0
 5582.0,Aaron Arruda,M,Raw,27.0,114.08,232.5,227.5
 16505.0,Tyler Stickle,M,Raw,28.0,99.65,242.5,297.5
-12116.0,Wendy Chan,F,Raw,22.5,49.95,133..0,145.0
+12116.0,Wendy Chan,F,Raw,22.5,49.95,133.0,145.0
 1825.0,Cassidy Mitchelson,F,Raw,17.0,77.5,100.0,130.0
 11369.0,Rowdy Cashley,M,Wraps,33.0,99.6,260.0,247.5
 24752.0,Samuel Derynck,M,Raw,21.5,80.45,217.5,257.5
@@ -1719,7 +1719,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 6606.0,Michael Braunscheidel,M,Raw,32.0,122.5,187.5,217.5
 29464.0,Terrence Lenaghon,M,Raw,41.0,120.2,200.0,222.5
 6521.0,W. Ryan Sullivan,M,Raw,32.0,118.3,225.0,292.5
-28706.0,Robertard,M,Wraps,23.0,73.03,192..5,192.5
+28706.0,Robertard,M,Wraps,23.0,73.03,192.5,192.5
 366.0,Allen Manning,M,Raw,39.0,107.37,177.5,192.5
 7807.0,Ali Sayed,M,Raw,19.5,72.9,190.0,212.5
 26006.0,Timothy White,M,Raw,28.0,96.0,230.0,220.0
@@ -1765,7 +1765,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 182.0,Scarlett Portues,F,Wraps,25.0,73.8,155.0,160.0
 23097.0,Ted Rutledge,M,Raw,65.5,103.25,175.0,185.0
 19236.0,Bruce Dudley,M,Raw,48.5,92.1,160.0,175.0
-23256.0,Liam Hillier,M,Raw,15.5,63.4,105..0,145.0
+23256.0,Liam Hillier,M,Raw,15.5,63.4,105.0,145.0
 20598.0,Kennedy Franklin,F,Raw,20.0,72.3,115.0,147.5
 3183.0,Aaron Halydier,M,Raw,24.0,107.4,215.0,255.0
 29125.0,Eric Gohler,M,Wraps,37.0,105.23,235.87,272.16
@@ -2589,7 +2589,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 26485.0,Gregory Page,M,Raw,53.5,81.0,215.0,240.0
 18258.0,Matt Delima,M,Raw,21.5,102.8,212.5,210.0
 11921.0,Heather Bell,F,Wraps,36.0,55.79,90.0,150.0
-12648.0,Stephanie Stephens,F,Single-ply,37.0,75.0,195..0,192.5
+12648.0,Stephanie Stephens,F,Single-ply,37.0,75.0,195.0,192.5
 20790.0,Dusty Flores,M,Raw,21.0,85.4,195.0,227.5
 27095.0,Lothar Vallot,M,Single-ply,56.0,89.18,125.0,145.0
 17344.0,Dakota Reich,F,Single-ply,16.5,55.64,120.0,140.0
@@ -2802,7 +2802,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 13881.0,Kamila Wisniewska,F,Raw,23.0,62.2,137.5,182.5
 27908.0,Takeru Nishi,M,Raw,20.5,65.5,182.5,235.0
 2991.0,Alex Andrade,M,Raw,23.0,73.1,215.0,237.5
-20917.0,Lorenzo Sanchez,M,Single-ply,18.5,68.7,237..5,232.5
+20917.0,Lorenzo Sanchez,M,Single-ply,18.5,68.7,237.5,232.5
 2258.0,Muhammad-Ali Mirzoev,M,Wraps,18.0,82.5,170.0,195.0
 20204.0,Mitchel Nowak,M,Wraps,21.0,135.2,287.5,280.0
 27240.0,LaRodrick Duncan,M,Raw,34.0,143.6,340.0,307.5
@@ -4212,7 +4212,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 10705.0,Trinity Mead,F,Single-ply,14.5,55.4,90.0,105.0
 24258.0,Michael Newbern,M,Raw,42.5,111.3,185.0,210.0
 20247.0,Alison Barnhill,F,Single-ply,46.0,58.88,102.5,135.0
-1659.0,Kendra Bartels,F,Single-ply,17.5,55.7,122..5,120.0
+1659.0,Kendra Bartels,F,Single-ply,17.5,55.7,122.5,120.0
 10262.0,Jason Burnell,M,Wraps,32.0,130.63,210.0,182.5
 20476.0,Patrick Grant,M,Wraps,28.0,88.7,170.0,212.5
 16425.0,Lee Deshotel,M,Raw,31.5,91.7,182.5,197.5
@@ -9711,7 +9711,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 5839.0,Guillermo Delatorre,M,Raw,15.0,67.5,63.5,113.4
 2024.0,Brittany Pryor,F,Raw,27.0,101.42,217.5,240.0
 27787.0,Chelsea Miller,F,Raw,42.0,74.4,112.5,140.0
-24353.0,Christopher Mosley,M,Raw,26.5,112.9,295..0,227.5
+24353.0,Christopher Mosley,M,Raw,26.5,112.9,295.0,227.5
 9019.0,Julia Trezise-Conroy,F,Raw,31.0,51.9,100.0,140.0
 10894.0,Fang-Yun Su,F,Raw,20.5,107.55,230.0,175.0
 17397.0,Paula Powell,F,Wraps,53.0,74.57,127.5,137.5
@@ -12137,7 +12137,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 14389.0,Joshua Rivet,M,Raw,34.0,82.1,237.5,260.0
 16284.0,Anthony Lopez,M,Raw,38.0,73.57,200.0,227.5
 4042.0,N. Anbu,M,Single-ply,21.5,51.8,215.0,245.0
-17751.0,Jacob Carrasco-Gonsales,M,Raw,48.5,65.67,180..0,225.0
+17751.0,Jacob Carrasco-Gonsales,M,Raw,48.5,65.67,180.0,225.0
 12853.0,Aaron Boyd,M,Raw,25.0,101.2,247.5,312.5
 4078.0,Mouhamad Kreidli,M,Raw,17.5,133.7,227.5,250.0
 14246.0,Molly Maddy,F,Raw,19.0,59.0,97.5,125.0
@@ -12428,7 +12428,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 6785.0,Jeruscha Ako,F,Raw,29.0,116.44,-170.0,172.5
 5877.0,Hannah Young,F,Raw,22.5,72.0,92.5,120.0
 9548.0,Ulyses Gonzalez,M,Raw,27.0,81.7,207.5,245.0
-16459.0,Steven Evaretts,M,Raw,55.5,104.1,205..0,242.5
+16459.0,Steven Evaretts,M,Raw,55.5,104.1,205.0,242.5
 2345.0,Jonathan White,M,Raw,27.5,117.6,307.5,307.5
 22831.0,Ramona Banjac,F,Raw,41.5,83.4,147.5,147.5
 8430.0,Fabbio Hu,M,Raw,22.5,64.31,152.5,185.0
@@ -12444,7 +12444,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 27369.0,Marissa Harden,F,Single-ply,18.5,64.36,113.4,133.8
 6197.0,Adrienne Pace,F,Raw,20.0,87.5,112.5,125.0
 13097.0,Nima Seyedtalebi,M,Raw,28.0,103.1,130.0,182.5
-14456.0,Marie Lemkul,F,Raw,43.0,77.3,110..0,157.5
+14456.0,Marie Lemkul,F,Raw,43.0,77.3,110.0,157.5
 15179.0,Dana Shealey,F,Multi-ply,32.0,106.59,205.0,202.5
 6401.0,Tara Hadzick,F,Raw,26.5,60.0,122.5,150.0
 5695.0,Andréa Durand,F,Raw,22.5,46.83,115.0,125.0
@@ -12663,7 +12663,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 27228.0,Damein Garrety,M,Raw,21.0,99.9,210.0,255.0
 1587.0,Zac Meyers,M,Raw,23.0,128.1,363.0,340.0
 6686.0,Lindsey Rossiter,F,Raw,21.5,62.5,112.5,155.0
-13558.0,Steven Zhou,M,Single-ply,20.5,87.2,220..0,225.0
+13558.0,Steven Zhou,M,Single-ply,20.5,87.2,220.0,225.0
 18103.0,Tatiana Tahana,F,Raw,34.0,68.96,80.0,132.5
 22484.0,Stacy Amorim,F,Raw,40.0,53.8,117.5,150.0
 20190.0,Kurt Patrick,M,Wraps,27.0,89.7,210.0,230.0
@@ -16997,7 +16997,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 9996.0,Amira Juma,F,Wraps,23.0,90.0,145.0,170.0
 4346.0,Jacob Scattone,M,Raw,19.5,87.1,237.5,287.5
 27037.0,Scott Sutherlin,M,Wraps,45.0,108.3,252.5,235.0
-545.0,Kyle Plummer,M,Wraps,26.0,78.3,145..0,172.5
+545.0,Kyle Plummer,M,Wraps,26.0,78.3,145.0,172.5
 19625.0,Christine Wood,F,Wraps,45.5,51.8,77.11,136.08
 25314.0,Jen Deering,F,Raw,33.0,96.39,125.0,162.5
 8502.0,Preston Trudeau,M,Raw,20.5,79.0,162.5,197.5
@@ -18526,7 +18526,7 @@ playerId,Name,Sex,Equipment,Age,BodyweightKg,BestSquatKg,BestDeadliftKg
 28499.0,Will O'Brien,M,Raw,21.0,87.3,227.5,260.0
 20583.0,Ryan Johnson,M,Raw,24.5,72.5,157.5,170.0
 9637.0,Ken Jones,M,Wraps,23.0,97.61,210.0,242.5
-5539.0,Daniel Pintor,M,Wraps,29.0,88.68,207..5,217.5
+5539.0,Daniel Pintor,M,Wraps,29.0,88.68,207.5,217.5
 18032.0,Tyler Walters,M,Raw,23.0,78.9,147.5,175.0
 12874.0,Guy Parsons,M,Raw,21.5,91.9,182.5,210.0
 29299.0,Amylynn Bott,F,Raw,18.5,50.41,77.5,120.0
