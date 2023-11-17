@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Powerlifting Predictor</title>
+    </head>
+
+    <style>
+        body{
+            background-image: url(photo.jpeg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+        }
+    </style>
+
+    <body text="white">
+        <div class="Login">
+            <center><h1>Powerlifting Predictor</h1></center>
+
+            <form action="{{ url_for('predict')}}"method="post">
+                <h2>Please Enter the Following Details</h2>
+
+                <label>Player Id:</label>
+                <input type="number" min="0" name="playerId" placeholder="PlayerID"><br/>
+                <br>
+                <label>Sex:</label>
+                    <input type="number" min="0" max="1" name="Sex" placeholder="Sex" required="required"><br>
+                <br>
+                <label>Equipment:</label>
+                    <input type="number" min="0" max="3" name="Equipment" placeholder="Equipment" required="required"><br>
+                <br>
+                <label>Age:</label>
+                    <input type="number" min="0" max="99" name="Age" placeholder="Age" required="required"><br/>
+                <br>
+                <label>Body Weight:</label>
+                    <input type="number" name="BodyweightKg" placeholder="Body Weight" required="required"><br>
+                <br>
+                <label>Squats:</label>
+                    <input type="number" name="BestSquatKg" placeholder="BestSquat" required="required"><br>
+                    <br>
+                <label>Best Bench:</label>
+                    <input type="number" name="BestBenchKg" placeholder="BestBench" required="required"><br>
+                    <br>
+                    <br>
+                    <br>
+                <button type="submit" class="btn btn-primary btn-block btn-large" style="height: 30px;width: 200px;">Predict</button>
+
+
+            </form>
+            <br>
+            <h2>{{ prediction_text }}</h2>
+            <br>
+            <br>
+            
+        </div>
+        
+    </body>
+
+</html>
