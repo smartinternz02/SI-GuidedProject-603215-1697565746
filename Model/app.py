@@ -21,7 +21,7 @@ def predict():
     prediction = model.predict(data)
     print(prediction)
     text = "Estimated Deadlift for the builder is: "
-    return render_template("index.html", prediction_text = text + str(prediction))
+    return render_template("predict.html", prediction_text = text + str(prediction))
 
 if __name__ == '__main__':
     app.run(debug=True)
