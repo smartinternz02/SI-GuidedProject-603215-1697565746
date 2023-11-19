@@ -7,10 +7,10 @@
 
     <style>
         body{
-            background-image: url(photo.jpeg);
+            background-image: url("{{ url_for('static', filename='photo.jpeg') }}");
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-size: 100% 100%;
+            background-size: cover;
         }
     </style>
 
